@@ -1,4 +1,4 @@
-# 🌐 IoT Monitoring System using MQTT
+# IoT Monitoring System using MQTT
 
 ## Deskripsi
 Proyek ini merupakan sistem Internet of Things (IoT) yang memanfaatkan beberapa sensor, yaitu LDR, PIR, dan DHT, serta aktuator berupa servo dan lampu LED. Sistem secara default akan membaca data dari sensor, kemudian mengontrol lampu secara otomatis berdasarkan tingkat intensitas cahaya yang terdeteksi oleh sensor LDR.
@@ -17,14 +17,14 @@ Selain itu, Telegram Bot juga berfungsi sebagai sistem notifikasi dengan memberi
 - Python (Pandas, Matplotlib)
 - Wireshark
 
-## 🏗️ Arsitektur Sistem
+## Arsitektur Sistem
 ![Arsitektur](images/Architecture.png)
 
 ## Analisis Data
 - Forecasting data sensor
 - Analisis statistik deskriptif
 
-## 🔍 Analisis Jaringan
+## Analisis Jaringan
 ![Wireshark](images/Wireshark.png)
 
 ## Cara Menjalankan
