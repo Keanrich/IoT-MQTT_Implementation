@@ -32,3 +32,7 @@ Selain itu, Telegram Bot juga berfungsi sebagai sistem notifikasi dengan memberi
 2. Jalankan broker MQTT
 3. Import flow Node-RED
 4. Jalankan notebook Python
+
+## Contributors
+- Keanrich Cordana
+- Matthew Lay
